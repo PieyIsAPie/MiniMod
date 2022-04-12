@@ -48,7 +48,26 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "Minigames",
+        "children": [
+          {
+            "name": "Crime Wars",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Functions",
+        "children": [
+          {
+            "name": "Minigames",
+            "children": []
+          }
+        ]
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "minimod",
